@@ -1,2 +1,2 @@
-secret_key = TQZ2umWZn5XZJ2a5BZHqsciHHXoQwLbdeJveFO1G2AsfNxaBvgsUDKrV988PBliJ
-api_key = aTqCSW65dThzKu3Y7mhy52ghmFbqm0el4lfpPWLOJpbw9qKUxdysyXoVwXf1oYrg
+secret_key = <>
+api_key = <>
